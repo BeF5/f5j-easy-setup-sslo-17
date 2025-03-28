@@ -14,7 +14,7 @@ SSLOでは、基本OSであるTMOSのバージョンの他に、SSLOのRPMのバ
 #. :guilabel:`Choose File` にて、先程ダウンロードしたRPMを選択し、:guilabel:`Upload and Install` を押します。
 
     .. image:: images/mod4-3.png
-        :scale: 80%
+        :scale: 60%
         :align: center
     |  
 #. バージョンがアップグレードされていることを確認します。
