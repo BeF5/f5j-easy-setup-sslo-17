@@ -31,7 +31,7 @@ SSLOでは、SSL復号をバイパスするためのルールを柔軟に設定�
 
    .. image:: images/mod11-7.png
    |  
-#. 編集の確認が表示されるので、:guilabel:`OK` ボタンを押します。
+#. 編集の確認が表示されるので、:guilabel:`Deploy` ボタンを押します。
 
     .. image:: images/mod11-8.png
     | 
